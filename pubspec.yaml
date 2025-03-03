@@ -5,7 +5,7 @@ publish_to: 'none'
 version: 1.0.0+1
 
 environment:
-  sdk: '3.7.0'
+  sdk: ^3.7.0
 
 
 #-------------------- PACKAGES ---------------------#
@@ -18,10 +18,10 @@ dependencies:
 
   # Icons
   iconsax: ^0.0.8
-  cupertino_icons: ^1.0.6
+  cupertino_icons: ^1.0.8
 
   # State Management
-  get: ^4.6.5
+  get: ^4.7.2
 
   # Product Specific
 
