@@ -1,2 +1,0 @@
-H:/Projects/Practice/Flutter/flutter_ecommerce/android/app/.cxx/Debug/341t3i46/armeabi-v7a/CMakeFiles/edit_cache.dir
-H:/Projects/Practice/Flutter/flutter_ecommerce/android/app/.cxx/Debug/341t3i46/armeabi-v7a/CMakeFiles/rebuild_cache.dir
