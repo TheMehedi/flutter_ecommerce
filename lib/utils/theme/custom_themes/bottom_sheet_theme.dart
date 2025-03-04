@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class EcommerceBottomSheetTheme {
-  EcommerceBottomSheetTheme._();
+class FlutterBottomSheetTheme {
+  FlutterBottomSheetTheme._();
 
   static BottomSheetThemeData lightBottomSheetTheme = BottomSheetThemeData(
     showDragHandle: true,

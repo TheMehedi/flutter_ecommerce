@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class EcommerceTextFieldTheme {
-  EcommerceTextFieldTheme._();
+class FlutterTextFieldTheme {
+  FlutterTextFieldTheme._();
 
   static InputDecorationTheme lightInputDecorationTheme = InputDecorationTheme(
     errorMaxLines: 3,

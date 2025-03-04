@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class EcommerceTextTheme {
-  EcommerceTextTheme._();
+class FlutterTextTheme {
+  FlutterTextTheme._();
 
   ///Customizable Light Text Theme
   static TextTheme lightTextTheme = TextTheme(

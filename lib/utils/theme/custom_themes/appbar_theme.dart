@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
-class EcommerceAppBarTheme {
+class FlutterAppBarTheme {
 
-  EcommerceAppBarTheme._();
+  FlutterAppBarTheme._();
 
 
   ///-- Light Theme

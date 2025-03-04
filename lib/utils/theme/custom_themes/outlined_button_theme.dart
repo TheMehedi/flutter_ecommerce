@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class EcommerceOutlinedButtonTheme {
-  EcommerceOutlinedButtonTheme._(); // To avoid creating instances
+class FlutterOutlinedButtonTheme {
+  FlutterOutlinedButtonTheme._(); // To avoid creating instances
 
   static final lightOutlinedButtonTheme = OutlinedButtonThemeData(
     style: OutlinedButton.styleFrom(

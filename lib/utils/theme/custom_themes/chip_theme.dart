@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class EcommerceChipTheme {
-  EcommerceChipTheme._();
+class FlutterChipTheme {
+  FlutterChipTheme._();
 
   static ChipThemeData lightChipTheme = ChipThemeData(
     disabledColor: Colors.grey.withValues(alpha: 0.4),

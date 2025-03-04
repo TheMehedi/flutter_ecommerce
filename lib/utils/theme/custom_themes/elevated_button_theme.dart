@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
-class EcommerceElevatedButtonTheme {
+class FlutterElevatedButtonTheme {
 
-  EcommerceElevatedButtonTheme._();
+  FlutterElevatedButtonTheme._();
 
 
 
