@@ -5,7 +5,9 @@ import '../../../utils/constants/text_strings.dart';
 import '../../../utils/helpers/helper_functions.dart';
 
 class FormDivider extends StatelessWidget {
-  const FormDivider({super.key});
+  const FormDivider({super.key, required this.dividerText});
+
+  final String dividerText;
 
   @override
   Widget build(BuildContext context) {
@@ -23,7 +25,7 @@ class FormDivider extends StatelessWidget {
           ),
         ),
         Text(
-          FlutterTexts.orSignInWith.capitalize!,
+          dividerText,
           style: Theme.of(context).textTheme.labelMedium,
         ),
         Flexible(

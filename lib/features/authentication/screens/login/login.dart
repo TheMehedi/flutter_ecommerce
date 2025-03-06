@@ -5,6 +5,8 @@ import 'package:flutter_ecommerce/common/widgets/login_signup/social_buttons.dar
 import 'package:flutter_ecommerce/features/authentication/screens/login/widgets/login_form.dart';
 import 'package:flutter_ecommerce/features/authentication/screens/login/widgets/login_header.dart';
 import 'package:flutter_ecommerce/utils/constants/sizes.dart';
+import 'package:flutter_ecommerce/utils/constants/text_strings.dart';
+import 'package:get/get.dart';
 
 class LoginScreen extends StatelessWidget {
   const LoginScreen({super.key});
@@ -25,7 +27,7 @@ class LoginScreen extends StatelessWidget {
               LoginForm(),
 
               ///Divider
-              FormDivider(),
+              FormDivider(dividerText: FlutterTexts.orSignInWith.capitalize!,),
               const SizedBox(height: FlutterSizes.spaceBtwSections),
 
               ///Footer
